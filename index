@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TypeNova</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+
+    <h1>Type<span>Nova</span></h1>
+
+    <div class="menu">
+        <a href="#">Home</a>
+        <a href="#">Docs</a>
+        <a href="#">Editor</a>
+        <a href="#">Download</a>
+    </div>
+
+</nav>
+
+<section class="hero">
+
+    <h2>The visual game engine</h2>
+
+    <h3>Powered by TypeScript</h3>
+
+    <p>
+        Create games visually with blocks or write TypeScript like a professional.
+    </p>
+
+    <button>Launch Editor</button>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
